@@ -1,0 +1,13 @@
+###########################
+# My Almquist Shell Aliases
+###########################
+
+alias whatismyshell='echo $SHELL'
+
+#############
+# START NOTES
+#############
+
+###########
+# END NOTES
+###########

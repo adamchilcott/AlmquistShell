@@ -3,7 +3,7 @@
 ###########################
 
 ## Aliases
-## . ~/.almquistShell/myAliases.file
+. ~/.almquistShell/myAliases.file
 
 #############
 # START NOTES
